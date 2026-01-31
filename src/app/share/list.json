@@ -21,7 +21,7 @@
 	},
 	{
 		"name": "Iconfont",
-		"logo": "blob:https://2025-blog-public-neon.vercel.app/73da0fa3-5bd1-4710-abd7-12e05d4762c6",
+		"logo": "/images/share/7dc79cdc00eecf73.png",
 		"url": "https://www.iconfont.cn",
 		"description": "阿里巴巴图标库",
 		"tags": [
@@ -32,7 +32,7 @@
 	{
 		"name": "Cloudflare",
 		"logo": "https://www.cloudflare.com/favicon.ico",
-		"url": "dash.cloudflare.com",
+		"url": "https://dash.cloudflare.com",
 		"description": "全球领先的CDN和安全服务",
 		"tags": [
 			"部署托管"
@@ -41,8 +41,8 @@
 	},
 	{
 		"name": "Giscus",
-		"logo": "blob:https://2025-blog-public-neon.vercel.app/0d52ef50-5f39-4352-99c0-4bd13863e885",
-		"url": "giscus.app",
+		"logo": "/images/share/7fe53c8817d2ca14.png",
+		"url": "https://giscus.app",
 		"description": "GitHub Discussions 评论系统",
 		"tags": [
 			"评论服务"
@@ -52,7 +52,7 @@
 	{
 		"name": "GitHub",
 		"logo": "https://github.githubassets.com/favicons/favicon.svg",
-		"url": "github.com",
+		"url": "https://github.com",
 		"description": "全球最大的开源社区",
 		"tags": [
 			"部署托管"
@@ -61,8 +61,8 @@
 	},
 	{
 		"name": "InfinityFree",
-		"logo": "blob:https://2025-blog-public-neon.vercel.app/a3e00e46-f2e8-48a9-8223-b80877657a3c",
-		"url": "www.infinityfree.com",
+		"logo": "/images/share/b7242a20a5997276.png",
+		"url": "https://www.infinityfree.com/",
 		"description": "免费托管WordPress和其他网站",
 		"tags": [
 			"免费主机"
@@ -72,7 +72,7 @@
 	{
 		"name": "Waline",
 		"logo": "https://waline.js.org/favicon.ico",
-		"url": "waline.js.org",
+		"url": "https://waline.js.org",
 		"description": "简洁、安全的评论系统",
 		"tags": [
 			"评论服务"
@@ -98,5 +98,25 @@
 			"像素画"
 		],
 		"stars": 3
+	},
+	{
+		"name": "Eslcon",
+		"logo": "blob:https://2025-blog-public-neon.vercel.app/cdb66527-9f67-4f04-bcf7-17f032681c10",
+		"url": "https://favicon.vwood.xyz/",
+		"description": "快速获取站点图标",
+		"tags": [
+			"工具"
+		],
+		"stars": 5
+	},
+	{
+		"name": "Gitee",
+		"logo": "blob:https://2025-blog-public-neon.vercel.app/616b709d-0e65-4595-aa72-22a07ee95736",
+		"url": "https://gitee.com/",
+		"description": "中国最大的开源代码托管和开发者社区平台",
+		"tags": [
+			"部署托管"
+		],
+		"stars": 5
 	}
 ]
