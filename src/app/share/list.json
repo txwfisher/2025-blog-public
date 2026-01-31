@@ -78,5 +78,15 @@
 			"评论服务"
 		],
 		"stars": 3
+	},
+	{
+		"name": "iLoveIMG",
+		"logo": "https://www.yysuni.com/images/share/7e91e93e3cdd586b.svg",
+		"url": "www.iloveimg.com/zh-cn",
+		"description": "免费图片处理网站",
+		"tags": [
+			"图片处理"
+		],
+		"stars": 4
 	}
 ]
