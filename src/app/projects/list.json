@@ -8,5 +8,15 @@
 		"tags": [
 			"主页"
 		]
+	},
+	{
+		"name": "荼丛の摸鱼日记",
+		"year": 2025,
+		"image": "blob:https://2025-blog-public-neon.vercel.app/a8a6b883-44c8-4c17-a5d2-4daa362c101c",
+		"url": "https://2025-blog-public-neon.vercel.app/",
+		"description": "此博客",
+		"tags": [
+			"博客"
+		]
 	}
 ]
