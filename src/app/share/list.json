@@ -7,6 +7,16 @@
 		"tags": [
 			"部署托管"
 		],
-		"stars": 3
+		"stars": 5
+	},
+	{
+		"name": "Umami",
+		"logo": "blob:https://2025-blog-public-neon.vercel.app/ec15adab-d72a-467a-9033-c8b6910ee8f1",
+		"url": "us.umami.is",
+		"description": "网站访问统计分析平台",
+		"tags": [
+			"统计分析"
+		],
+		"stars": 5
 	}
 ]
