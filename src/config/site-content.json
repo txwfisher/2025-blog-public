@@ -43,15 +43,15 @@
 	"socialButtons": [
 		{
 			"id": "github",
-			"type": "github",
-			"value": "https://github.com/yysuni",
+			"type": "qq",
+			"value": "/images/social-buttons/bce856308b049ab4.jpg",
 			"label": "Github",
 			"order": 3
 		},
 		{
 			"id": "juejin",
-			"type": "juejin",
-			"value": "https://juejin.cn/user/2427311675422382",
+			"type": "wechat",
+			"value": "/images/social-buttons/2300bcbda240d249.png",
 			"label": "稀土掘金",
 			"order": 2
 		},
