@@ -2,7 +2,7 @@
 	{
 		"name": "Vercel",
 		"logo": "/images/share/a874672bc1119564.png",
-		"url": "vercel.com",
+		"url": "https://vercel.com",
 		"description": "现代化的前端部署平台",
 		"tags": [
 			"部署托管"
