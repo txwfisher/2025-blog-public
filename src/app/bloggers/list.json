@@ -1,16 +1,23 @@
 [
 	{
 		"name": "明月书阁",
-		"avatar": "/images/blogger/cd28ab25ace9ace9.jpg",
+		"avatar": "/images/blogger/943806da31c2263f.png",
 		"url": "https://skybook.pages.dev/",
 		"description": "一个阅读爱好者制作的书源、订阅源等阅读相关规则分享平台。",
 		"stars": 5
 	},
 	{
 		"name": "洛娅橙",
-		"avatar": "/images/blogger/27085b2629e48272.png",
+		"avatar": "/images/blogger/781c7a21708f5018.png",
 		"url": "https://loyc.xyz/",
-		"description": "洛娅橙的阅读发布页",
+		"description": "“阅读Σ”作者，基于开源项目 Legado 进行二次开发，持续扩展其功能。",
+		"stars": 5
+	},
+	{
+		"name": "喵公子",
+		"avatar": "blob:https://www.ktcr.cn/1b1c87b9-7ffe-4c12-b112-302e99dd02fd",
+		"url": "https://fb.miaogongzi.cc/",
+		"description": "喵公子发布页",
 		"stars": 5
 	}
 ]
