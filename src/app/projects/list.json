@@ -1,12 +1,13 @@
 [
 	{
-		"name": "荼丛の小破站",
-		"year": 2024,
-		"image": "/images/project/e7767a145e3e8e4a.png",
-		"url": "https://tucong.vip/",
-		"description": "我的主页",
+		"name": "阅读",
+		"year": 2026,
+		"image": "blob:https://www.ktcr.cn/2d101485-f6f2-4a9d-9f46-2f8db74157eb",
+		"url": "https://gedoor.github.io/",
+		"description": "阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。",
 		"tags": [
-			"主页"
-		]
+			"阅读"
+		],
+		"github": "https://github.com/gedoor/legado"
 	}
 ]
