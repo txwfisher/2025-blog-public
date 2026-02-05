@@ -1,7 +1,7 @@
 [
 	{
 		"name": "阅读",
-		"year": 2026,
+		"year": 2020,
 		"image": "/images/project/f417ea65aba7b1b8.png",
 		"url": "https://gedoor.github.io/",
 		"description": "阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。",
@@ -12,13 +12,24 @@
 	},
 	{
 		"name": "阅读Sigma",
-		"year": 2026,
-		"image": "blob:https://www.ktcr.cn/0309d762-f7fd-405e-8683-567815dd2ca8",
+		"year": 2025,
+		"image": "/images/project/bf130be6621c1222.png",
 		"url": "https://loyc.xyz/c/legado.html",
 		"description": "阅读Sigma是gedoor/legado的一个分支版本，在原有基础上增加更多功能，为书源带来更多可能性。",
 		"tags": [
 			"阅读"
 		],
 		"github": "https://github.com/Luoyacheng/legado"
+	},
+	{
+		"name": "LX Music",
+		"year": 2024,
+		"image": "blob:https://www.ktcr.cn/7a4e7c16-f63f-4e85-8e66-ecf32b96b9fd",
+		"url": "https://lxmusic.toside.cn/",
+		"description": "一个基于 React Native 开发的音乐软件",
+		"tags": [
+			"音乐"
+		],
+		"github": "https://github.com/lyswhut/lx-music-mobile"
 	}
 ]
