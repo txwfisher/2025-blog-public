@@ -24,12 +24,22 @@
 	{
 		"name": "LX Music",
 		"year": 2024,
-		"image": "blob:https://www.ktcr.cn/7a4e7c16-f63f-4e85-8e66-ecf32b96b9fd",
+		"image": "/images/project/59d7fd51c5a04270.png",
 		"url": "https://lxmusic.toside.cn/",
 		"description": "一个基于 React Native 开发的音乐软件",
 		"tags": [
 			"音乐"
 		],
 		"github": "https://github.com/lyswhut/lx-music-mobile"
+	},
+	{
+		"name": "GitHub Store",
+		"year": 2026,
+		"image": "blob:https://www.ktcr.cn/c40a394b-6b91-4a2d-80ca-9ea52a4e495b",
+		"url": "https://github.com/rainxchzed/Github-Store",
+		"description": "把 GitHub 做成应用商店",
+		"tags": [
+			"商店"
+		]
 	}
 ]
