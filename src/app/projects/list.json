@@ -31,15 +31,5 @@
 			"音乐"
 		],
 		"github": "https://github.com/lyswhut/lx-music-mobile"
-	},
-	{
-		"name": "GitHub Store",
-		"year": 2026,
-		"image": "blob:https://www.ktcr.cn/c40a394b-6b91-4a2d-80ca-9ea52a4e495b",
-		"url": "https://github.com/rainxchzed/Github-Store",
-		"description": "把 GitHub 做成应用商店",
-		"tags": [
-			"商店"
-		]
 	}
 ]
