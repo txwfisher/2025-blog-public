@@ -376,7 +376,7 @@ export default function BlogPage() {
 					)
 				})}
 				{items.length > 0 && (
-					<div className='text-center'>
+					div className='text-center'>
 						<motion.a
 							initial={{ opacity: 0, scale: 0.6 }}
 							animate={{ opacity: 1, scale: 1 }}
@@ -389,8 +389,6 @@ export default function BlogPage() {
 							更多
 						</motion.a>
 					</div>
-				)}
-			</div>
 
 			<div className='pt-12'>
 				{!loading && items.length === 0 && <div className='text-secondary py-6 text-center text-sm'>暂无文章</div>}
