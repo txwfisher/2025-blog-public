@@ -20,7 +20,7 @@ import { cn } from '@/lib/utils'
 import { batchDeleteBlogs } from './services/batch-delete-blogs'
 import { Check } from 'lucide-react'
 
-type DisplayMode = 'day' | 'week' | 'month' | 'year'
+输入 DisplayMode = 'day' | 'week' | 'month' | 'year'
 
 export default function BlogPage() {
 	const { items, loading } = useBlogIndex()
@@ -382,10 +382,10 @@ export default function BlogPage() {
 							animate={{ opacity: 1, scale: 1 }}
 							whileHover={{ scale: 1.05 }}
 							whileTap={{ scale: 0.95 }}
-							href='https://juejin.cn/user/2427311675422382/posts'
+							href='https://tucong.vip/'
 							target='_blank'
 							className='card text-secondary static inline-flex items-center gap-2 rounded-xl px-4 py-2 text-xs'>
-							<JuejinSVG className='h-4 w-4' />
+							<ThumbsUp className='h-4 w-4' />
 							更多
 						</motion.a>
 					</div>
