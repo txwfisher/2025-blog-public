@@ -34,19 +34,13 @@ const list = [
 	{
 		icon: ProjectsOutlineSVG,
 		iconActive: ProjectsFilledSVG,
-		label: '优秀项目',
+		label: '推荐分享',
 		href: '/projects'
-	},
-	{
-		icon: AboutOutlineSVG,
-		iconActive: AboutFilledSVG,
-		label: '关于本站',
-		href: '/about'
 	},
 	{
 		icon: ShareOutlineSVG,
 		iconActive: ShareFilledSVG,
-		label: '推荐分享',
+		label: '我的收藏',
 		href: '/share'
 	},
 	{
@@ -54,6 +48,12 @@ const list = [
 		iconActive: WebsiteFilledSVG,
 		label: '他山之石',
 		href: '/bloggers'
+	},
+	{
+		icon: AboutOutlineSVG,
+		iconActive: AboutFilledSVG,
+		label: '关于本站',
+		href: '/about'
 	}
 ]
 
