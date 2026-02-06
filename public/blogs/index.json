@@ -10,5 +10,26 @@
     "summary": "推荐两款 GitHub 油猴脚本，一键汉化界面并加速下载，提升开发效率。",
     "cover": "/blogs/githubjiaoben/717482c74be793fb.jpg",
     "hidden": false
+  },
+  {
+    "slug": "荼丛",
+    "title": "「阅读」生态",
+    "tags": [
+      "阅读"
+    ],
+    "date": "2025-11-01T15:39",
+    "summary": "「多版本，随心选。」",
+    "cover": "/blogs/荼丛/a8e1a01df2231abf.png",
+    "hidden": false
+  },
+  {
+    "slug": "阅读",
+    "title": "「阅读」生态",
+    "tags": [
+      "阅读"
+    ],
+    "date": "2025-11-01T15:18",
+    "summary": "「多版本，随心选。」",
+    "hidden": false
   }
 ]
