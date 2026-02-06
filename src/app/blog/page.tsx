@@ -126,7 +126,7 @@ export default function BlogPage() {
 			}
 			return next
 		})
-	}, [])
+	}， [])
 
 	// 全选所有文章
 	const handleSelectAll = useCallback(() => {
@@ -382,7 +382,7 @@ export default function BlogPage() {
 							animate={{ opacity: 1, scale: 1 }}
 							whileHover={{ scale: 1.05 }}
 							whileTap={{ scale: 0.95 }}
-							href='https://juejin.cn/user/3194529563289911'
+							href='https://juejin.cn/user/3194529563289911/posts'
 							target='_blank'
 							className='card text-secondary static inline-flex items-center gap-2 rounded-xl px-4 py-2 text-xs'>
 							<JuejinSVG className='h-4 w-4' />
