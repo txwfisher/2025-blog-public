@@ -111,12 +111,22 @@
 	},
 	{
 		"name": "源仓库",
-		"logo": "blob:https://www.ktcr.cn/f576f6dc-312b-4785-9148-eb4310640b4c",
+		"logo": "/images/share/631849c1b4ba2f6c.png",
 		"url": "https://yckceo.vip/",
 		"description": "源仓库最新网址获取地址，源仓库官方网站。",
 		"tags": [
 			"开源阅读"
 		],
-		"stars": 5
+		"stars": 4
+	},
+	{
+		"name": "The Useless Web",
+		"logo": "blob:https://www.ktcr.cn/47a46a09-b492-43fc-a0de-84173fc31435",
+		"url": "https://theuselessweb.com/",
+		"description": "这是无聊的人或那些想在网上找到随机网站的理想按钮！",
+		"tags": [
+			"有趣网站"
+		],
+		"stars": 2
 	}
 ]
