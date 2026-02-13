@@ -1,1 +1,62 @@
-[]
+[
+	{
+		"name": "Vercel",
+		"logo": "blob:https://www.ktcr.cn/79c3120a-ef31-49ef-94af-abad9de02e2a",
+		"url": "https://vercel.com",
+		"description": "现代化的前端部署平台",
+		"tags": [
+			"部署托管"
+		],
+		"stars": 5
+	},
+	{
+		"name": "Iconfont",
+		"logo": "blob:https://www.ktcr.cn/83c8a0d8-5286-49f2-854d-86d2082fbf57",
+		"url": "https://www.iconfont.cn/",
+		"description": "阿里巴巴图标库",
+		"tags": [
+			"图标设计"
+		],
+		"stars": 5
+	},
+	{
+		"name": "Cloudflare",
+		"logo": "blob:https://www.ktcr.cn/9bd09f2d-074c-4603-a769-8770b60e5c0f",
+		"url": "https://dash.cloudflare.com/",
+		"description": "全球领先的CDN和安全服务",
+		"tags": [
+			"部署托管"
+		],
+		"stars": 5
+	},
+	{
+		"name": "Giscus",
+		"logo": "blob:https://www.ktcr.cn/7ae8b9c1-56a7-40f8-91d2-18cef7a286cf",
+		"url": "https://giscus.app/zh-CN",
+		"description": "GitHub Discussions 评论系统",
+		"tags": [
+			"评论服务"
+		],
+		"stars": 5
+	},
+	{
+		"name": "GitHub",
+		"logo": "blob:https://www.ktcr.cn/25230766-df5c-464b-8add-8258ab746e77",
+		"url": "https://github.com/",
+		"description": "全球最大的开源社区",
+		"tags": [
+			"部署托管"
+		],
+		"stars": 5
+	},
+	{
+		"name": "Waline",
+		"logo": "blob:https://www.ktcr.cn/2d44221c-38f8-463b-8284-f7387000c4cb",
+		"url": "https://waline.js.org/",
+		"description": "简洁、安全的评论系统",
+		"tags": [
+			"评论服务"
+		],
+		"stars": 4
+	}
+]
