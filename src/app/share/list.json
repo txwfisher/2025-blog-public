@@ -61,7 +61,7 @@
 	},
 	{
 		"name": "iLoveIMG",
-		"logo": "blob:https://www.ktcr.cn/7de01b51-2a17-4ea4-87a0-c131d27912c2",
+		"logo": "/images/share/0ca9497e1ce1785b.png",
 		"url": "https://www.iloveimg.com/zh-cn",
 		"description": "免费图片处理网站",
 		"tags": [
@@ -71,7 +71,7 @@
 	},
 	{
 		"name": "DigitalPlat",
-		"logo": "blob:https://www.ktcr.cn/be386677-9f05-411f-89f8-0e054217e0b7",
+		"logo": "/images/share/09c000537e43a1ff.png",
 		"url": "https://dash.domain.digitalplat.org/",
 		"description": "免费域名注册",
 		"tags": [
@@ -81,7 +81,7 @@
 	},
 	{
 		"name": "Eslcon",
-		"logo": "blob:https://www.ktcr.cn/c7ad0b3d-fbf6-4950-9e44-a5cea23b2176",
+		"logo": "/images/share/6c4989028f1db154.png",
 		"url": "https://favicon.vwood.xyz/",
 		"description": "快速获取站点图标",
 		"tags": [
@@ -91,7 +91,7 @@
 	},
 	{
 		"name": "Gitee",
-		"logo": "blob:https://www.ktcr.cn/815057a4-ba78-42b2-8fbc-f5e774f843d1",
+		"logo": "/images/share/2d1a42d094476e3c.png",
 		"url": "https://gitee.com/",
 		"description": "中国最大的开源代码托管和开发者社区平台",
 		"tags": [
@@ -101,7 +101,7 @@
 	},
 	{
 		"name": "GitLab",
-		"logo": "blob:https://www.ktcr.cn/e711b8e8-892f-4b2a-8c1e-f9cce2022d67",
+		"logo": "/images/share/acc464637834e05c.svg",
 		"url": "https://gitlab.cn/",
 		"description": "极狐-全球领先的开源代码托管与一体化DevOps平台",
 		"tags": [
