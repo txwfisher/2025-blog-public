@@ -108,5 +108,15 @@
 			"部署托管"
 		],
 		"stars": 3
+	},
+	{
+		"name": "源仓库",
+		"logo": "blob:https://www.ktcr.cn/f576f6dc-312b-4785-9148-eb4310640b4c",
+		"url": "https://yckceo.vip/",
+		"description": "源仓库最新网址获取地址，源仓库官方网站。",
+		"tags": [
+			"开源阅读"
+		],
+		"stars": 5
 	}
 ]
