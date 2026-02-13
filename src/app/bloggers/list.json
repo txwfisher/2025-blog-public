@@ -1,1 +1,30 @@
-[]
+[
+	{
+		"name": "明月书阁",
+		"avatar": "blob:https://www.ktcr.cn/5ab678d3-4644-49b5-8c0f-344a24c206f7",
+		"url": "https://skybook1.top/",
+		"description": "一个阅读爱好者制作的书源、订阅源等阅读相关规则分享平台。",
+		"stars": 5
+	},
+	{
+		"name": "洛娅橙",
+		"avatar": "blob:https://www.ktcr.cn/c2e9c3b8-ac1c-4ac2-9de3-2e74afeca6d5",
+		"url": "https://loyc.xyz/",
+		"description": "“ 阅读Σ/阅读Sigma ”作者（基于开源项目 Legado 进行二次开发，持续扩展其功能。）",
+		"stars": 5
+	},
+	{
+		"name": "荼丛の小破站",
+		"avatar": "blob:https://www.ktcr.cn/03394f91-6a8b-47e4-bc30-b6fcb177d4cf",
+		"url": "https://tucong.vip/",
+		"description": "愿你保持不变 保持己见 充满热血",
+		"stars": 1
+	},
+	{
+		"name": "喵公子",
+		"avatar": "blob:https://www.ktcr.cn/a1129e96-f88c-4503-9421-990d7fc2aff1",
+		"url": "https://fb.miaogongzi.cc/",
+		"description": "喵公子发布页",
+		"stars": 5
+	}
+]
