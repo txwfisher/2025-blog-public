@@ -1,5 +1,5 @@
 {
 	"title": "关于本站",
 	"description": "一个基于 Github 的现代化博客系统",
-	"content": "📦网站基于 Github 仓库完全存储，所有内容版本可控\n\n🚀无后端，无 serverless function，纯静态站点\n\n✏️文章通过可视化 UI 直接编辑并提交到 Github 仓库\n\n🔑所有用户都可以编辑，提交需要 Owner 的 Private Key\n\n## 技术栈\n\n- Next.js\n- React\n- TypeScript\n- Tailwind CSS\n- Motion\n- Github API"
+	"content": "### 我是荼丛，一个喜欢写代码也喜欢摸鱼的野生程序员。\n\n## 📚 这里主要记录\n\n📝 **今天学了啥**：偶尔认真，经常摆烂，但总归在学点东西  \n🐞 **Bug历险记**：那些让我熬夜的坑，希望你别再踩了  \n🤔 **胡思乱想**：技术、生活、还有为什么我的代码又跑不通了  \n🍉 **偶尔八卦**：行业见闻、有趣的开源项目、或者单纯想吐槽一下  \n\n- 不保证干货，但保证真实——毕竟，谁还不是一边 Google 一边假装大佬呢 😉\n\n「慢慢来，比较快」\n\n## 🛠️ 技术栈\n\n- Next.js\n- React\n- TypeScript\n- Tailwind CSS\n- Motion\n- Github API"
 }
