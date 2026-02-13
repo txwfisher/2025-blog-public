@@ -1,8 +1,8 @@
 {
 	"meta": {
-		"title": "YYsuni",
-		"description": "YYsuni 的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
-		"username": "Suni"
+		"title": "Tucha Log",
+		"description": "偶尔认真，经常摆烂，但总归在学点东西。",
+		"username": "荼丛"
 	},
 	"theme": {
 		"colorBrand": "#de4331",
@@ -43,22 +43,22 @@
 	"socialButtons": [
 		{
 			"id": "github",
-			"type": "github",
-			"value": "https://github.com/yysuni",
+			"type": "qq",
+			"value": "/images/social-buttons/bce856308b049ab4.jpg",
 			"label": "Github",
 			"order": 3
 		},
 		{
 			"id": "juejin",
-			"type": "juejin",
-			"value": "https://juejin.cn/user/2427311675422382",
+			"type": "wechat",
+			"value": "/images/social-buttons/2300bcbda240d249.png",
 			"label": "稀土掘金",
 			"order": 2
 		},
 		{
 			"id": "email",
 			"type": "email",
-			"value": "yysuni1001@gmail.com",
+			"value": "txwfisher@gmail.com",
 			"label": "",
 			"order": 1
 		}
@@ -68,7 +68,7 @@
 	"isCachePem": false,
 	"hideEditButton": false,
 	"enableCategories": true,
-	"currentHatIndex": 3,
+	"currentHatIndex": 24,
 	"hatFlipped": false,
 	"enableChristmas": false,
 	"beian": {
