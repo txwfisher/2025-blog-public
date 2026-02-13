@@ -65,7 +65,7 @@
 		"url": "https://www.iloveimg.com/zh-cn",
 		"description": "免费图片处理网站",
 		"tags": [
-			"图片处理"
+			"实用工具"
 		],
 		"stars": 4
 	},
@@ -121,7 +121,7 @@
 	},
 	{
 		"name": "The Useless Web",
-		"logo": "blob:https://www.ktcr.cn/47a46a09-b492-43fc-a0de-84173fc31435",
+		"logo": "/images/share/93f98942edc05b29.png",
 		"url": "https://theuselessweb.com/",
 		"description": "这是无聊的人或那些想在网上找到随机网站的理想按钮！",
 		"tags": [
