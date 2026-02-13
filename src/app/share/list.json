@@ -103,7 +103,7 @@
 		"name": "GitLab",
 		"logo": "/images/share/acc464637834e05c.svg",
 		"url": "https://gitlab.cn/",
-		"description": "极狐-全球领先的开源代码托管与一体化DevOps平台",
+		"description": "极狐GitLab是基于开源GitLab EE的中国发行版，专为中国用户提供企业级DevOps平台解决方案",
 		"tags": [
 			"部署托管"
 		],
