@@ -22,5 +22,16 @@
 			"阅读"
 		],
 		"github": "https://github.com/Luoyacheng/legado"
+	},
+	{
+		"name": "阅读 MD3",
+		"year": 2025,
+		"image": "blob:https://www.ktcr.cn/594ce280-aa7b-4cf8-a5b6-139b07395c6b",
+		"url": "https://github.com/HapeLee/legado-with-MD3",
+		"description": "Legado with MD3 是基于开源项目 阅读 (Legado) 开发的 Material Design 3 风格重构版本。",
+		"tags": [
+			"开源",
+			"阅读"
+		]
 	}
 ]
