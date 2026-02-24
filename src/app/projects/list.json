@@ -14,7 +14,7 @@
 	{
 		"name": "阅读Sigma",
 		"year": 2025,
-		"image": "blob:https://www.ktcr.cn/594511f9-f513-40b4-8d42-bc4b0de2e9c7",
+		"image": "/images/project/bf130be6621c1222.png",
 		"url": "https://loyc.xyz/c/legado.html",
 		"description": "阅读Sigma是gedoor/legado的一个分支版本，在原有基础上增加更多功能，为书源带来更多可能性。",
 		"tags": [
